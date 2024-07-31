@@ -1,0 +1,302 @@
+[
+    {
+        "_id": 1,
+        "type": "mcq",
+        "question": "What is the capital of France?",
+        "options": {
+            "a": "Paris",
+            "b": "Berlin",
+            "c": "Madrid",
+            "d": "Rome"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 2,
+        "type": "mcq",
+        "question": "Which planet is known as the Red Planet?",
+        "options": {
+            "a": "Venus",
+            "b": "Mars",
+            "c": "Jupiter",
+            "d": "Saturn"
+        },
+        "correctAns": "b",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 3,
+        "type": "mcq",
+        "question": "What is the chemical symbol for water?",
+        "options": {
+            "a": "H2O",
+            "b": "O2",
+            "c": "CO2",
+            "d": "NaCl"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 4,
+        "type": "mcq",
+        "question": "Who wrote 'To Kill a Mockingbird'?",
+        "options": {
+            "a": "Harper Lee",
+            "b": "Mark Twain",
+            "c": "Ernest Hemingway",
+            "d": "F. Scott Fitzgerald"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 5,
+        "type": "mcq",
+        "question": "What is the largest ocean on Earth?",
+        "options": {
+            "a": "Atlantic Ocean",
+            "b": "Indian Ocean",
+            "c": "Arctic Ocean",
+            "d": "Pacific Ocean"
+        },
+        "correctAns": "d",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 6,
+        "type": "mcq",
+        "question": "Which element has the chemical symbol 'Fe'?",
+        "options": {
+            "a": "Fluorine",
+            "b": "Iron",
+            "c": "Francium",
+            "d": "Fermium"
+        },
+        "correctAns": "b",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 7,
+        "type": "mcq",
+        "question": "In which year did the Titanic sink?",
+        "options": {
+            "a": "1912",
+            "b": "1905",
+            "c": "1915",
+            "d": "1918"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 8,
+        "type": "mcq",
+        "question": "What is the boiling point of water at sea level?",
+        "options": {
+            "a": "90°C",
+            "b": "100°C",
+            "c": "120°C",
+            "d": "150°C"
+        },
+        "correctAns": "b",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 9,
+        "type": "mcq",
+        "question": "Who painted the Mona Lisa?",
+        "options": {
+            "a": "Vincent van Gogh",
+            "b": "Pablo Picasso",
+            "c": "Leonardo da Vinci",
+            "d": "Claude Monet"
+        },
+        "correctAns": "c",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 10,
+        "type": "mcq",
+        "question": "What is the smallest prime number?",
+        "options": {
+            "a": "1",
+            "b": "2",
+            "c": "3",
+            "d": "5"
+        },
+        "correctAns": "b",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 11,
+        "type": "mcq",
+        "question": "Which country is the largest by land area?",
+        "options": {
+            "a": "Canada",
+            "b": "China",
+            "c": "Russia",
+            "d": "United States"
+        },
+        "correctAns": "c",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 12,
+        "type": "mcq",
+        "question": "What is the currency of Japan?",
+        "options": {
+            "a": "Yen",
+            "b": "Won",
+            "c": "Renminbi",
+            "d": "Dollar"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 13,
+        "type": "mcq",
+        "question": "What is the most abundant gas in Earth's atmosphere?",
+        "options": {
+            "a": "Oxygen",
+            "b": "Carbon dioxide",
+            "c": "Nitrogen",
+            "d": "Hydrogen"
+        },
+        "correctAns": "c",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 14,
+        "type": "mcq",
+        "question": "Who is the author of '1984'?",
+        "options": {
+            "a": "George Orwell",
+            "b": "Aldous Huxley",
+            "c": "J.K. Rowling",
+            "d": "Jane Austen"
+        },
+        "correctAns": "a",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 15,
+        "type": "mcq",
+        "question": "What is the tallest mountain in the world?",
+        "options": {
+            "a": "K2",
+            "b": "Kangchenjunga",
+            "c": "Mount Everest",
+            "d": "Lhotse"
+        },
+        "correctAns": "c",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 16,
+        "type": "subjective",
+        "question": "Describe the process of photosynthesis.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 17,
+        "type": "subjective",
+        "question": "Explain the theory of relativity.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 18,
+        "type": "subjective",
+        "question": "What are the main causes of climate change?",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 19,
+        "type": "subjective",
+        "question": "Discuss the impact of globalization on developing countries.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 20,
+        "type": "subjective",
+        "question": "Explain the water cycle.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 21,
+        "type": "subjective",
+        "question": "What are the major branches of philosophy?",
+        "correctAns": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. It involves the conversion of carbon dioxide and water into glucose and oxygen.",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 22,
+        "type": "subjective",
+        "question": "Describe the structure of the human heart.",
+        "correctAns": "The main causes of climate change include the burning of fossil fuels, deforestation, and industrial processes, which increase the concentration of greenhouse gases in the atmosphere, leading to global warming.",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 23,
+        "type": "subjective",
+        "question": "Explain the significance of the Renaissance.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 24,
+        "type": "subjective",
+        "question": "What are the benefits and drawbacks of renewable energy?",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 25,
+        "type": "subjective",
+        "question": "Discuss the role of the United Nations.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 26,
+        "type": "subjective",
+        "question": "Explain the process of natural selection.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 27,
+        "type": "subjective",
+        "question": "Describe the significance of the Industrial Revolution.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 28,
+        "type": "subjective",
+        "question": "What are the key differences between capitalism and socialism?",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 29,
+        "type": "subjective",
+        "question": "Explain the concept of democracy.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    },
+    {
+        "_id": 30,
+        "type": "subjective",
+        "question": "Discuss the importance of biodiversity.",
+        "correctAns": "ans",
+        "date":"28-12-2023"
+    }
+]
